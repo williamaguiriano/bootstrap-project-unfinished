@@ -1,0 +1,147 @@
+div.container-fluid{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div.row.bg-light{
+    display: flex;
+    margin:auto;
+    justify-content: space-between;
+    position: sticky; top: 0;
+    background: white;
+}
+div.row.d-flex.justify-content-center
+{
+    background: white;
+    padding-top: 15px;
+}
+span.dropdown{
+    padding-right: 100px;
+}
+.leftinstagram{
+padding-left: 100px;
+padding-top: 5px;
+}
+.modalbutton{
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+div.modal-body{
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin: 10px;
+}
+.emotes{
+    padding-left: 10px;
+    padding-bottom:10px;
+}
+.fa-camera:before {
+    content: "\f030";
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    padding: 3px;
+}
+.fa-map-marker-alt:before {
+    content: "\f3c5";
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    padding: 3px;
+}
+element.style {
+    margin-left: 100px;
+}
+#pills-profile-tab{
+    margin-left: 5px;
+}
+#pills-home-tab{
+    margin-left: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color:lightgrey;
+    margin:0;
+}
+Header{
+    background-color: white;
+    padding:1px;
+}
+.post{
+    background-color: white;
+    margin-top: 50px;
+}
+Header h1{
+    margin:0
+}
+div.container{
+    margin:auto ;
+    Width:600px ;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: lightgray;
+}
+div.post h2, div.post p{
+padding: 5px;
+margin:0; 
+}
+div.post img{
+    width:100%;
+}
+div.post .post-header div:first-child {
+    display: inline-block;
+    width: 79%;
+    text-align: left;
+}
+div.post .post-header div:last-child {
+    display: inline-block; 
+    width:17%; 
+    color: grey;
+    padding:10px;
+    text-align: right;
+}
+#pills-profile.tab-pane.fade.active.show{
+    background: lightgray;
+}
+
+div.p{
+    padding:100px;
+}
+
+.likebutton{
+padding-left: 10px;
+padding-right: 10px;
+color:grey;
+}
+.comment{
+padding-right: 450px;
+color: grey;
+}
